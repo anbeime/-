@@ -1,0 +1,5 @@
+{
+  "name": "WeChat AI Editor",
+  "description": "A dedicated AI-powered editor for WeChat Official Accounts. Drag & drop content, one-click AI formatting, history management, and document importing.",
+  "requestFramePermissions": []
+}
